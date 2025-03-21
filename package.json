@@ -1,0 +1,32 @@
+{
+  "name": "coretext.chatgpt",
+  "version": "1.0.0",
+  "description": "\"# coretext.chatGPT\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayrmot/coretext.ChatGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayrmot/coretext.ChatGPT/issues"
+  },
+  "homepage": "https://github.com/nayrmot/coretext.ChatGPT#readme",
+  "dependencies": {
+    "next": "^15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
